@@ -1,0 +1,31 @@
+_repo: Austria-Hungary_69481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+description: ''
+gutenberg_issued: '2022-12-06'
+identifiers:
+  gutenberg: '69481'
+language: en
+pgterms:marc904: https://archive.org/details/austriahungary00mitt/page/n7/mode/2up
+pgterms:marc905: 20200502190547mitton
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: 'United Kingdom: Adam and Charles Black,1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Austria-Hungary
+url: http://www.gutenberg.org/ebooks/69481
