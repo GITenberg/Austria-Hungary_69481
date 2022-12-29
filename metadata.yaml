@@ -1,5 +1,8 @@
 _repo: Austria-Hungary_69481
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69481-h/images/cover.jpg
 creator:
   author:
     agent_name: Mitton, G. E. (Geraldine Edith)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9224
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69481#Austria-Hungary
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69481'
